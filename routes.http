@@ -3,7 +3,7 @@ Content-type: application/json
 
 
 {
-    "title": "Video 01",
+    "title": "Videodddddd",
     "description": "Esse eeeeeeee",
     "duration": 100
 }
@@ -11,7 +11,7 @@ Content-type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET http://localhost:3333/videos?search=Node
 
 ###
 
