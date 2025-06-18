@@ -12,6 +12,7 @@ import { fastify } from 'fastify'
 import { DatabaseMemory } from './database-memory.js'
 import { request } from 'node:http'
 
+
 const server = fastify()
 
 const database = new DatabaseMemory()
